@@ -1,0 +1,6 @@
+{
+  "name": "DataMind AI",
+  "description": "An intelligent AI chatbot that parses and analyzes your Excel and CSV files using Google Gemini. Gain insights from your data through natural conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
