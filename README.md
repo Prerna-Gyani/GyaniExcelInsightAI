@@ -49,6 +49,6 @@ DataMind AI is a powerful, local-first AI chatbot designed to help you analyze E
 
 Thankyou for visiting.
 
-You can visit for more projects: www.github.com/prerna-gyani
+You can visit for more projects: www.github.com/prerna-gyani and https://share.streamlit.io/user/prerna-gyani
 
 Know More: www.linkedin.com/in/prerna-gyani
