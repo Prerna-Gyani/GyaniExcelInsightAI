@@ -1,3 +1,5 @@
+This project is created by Prerna Gyanchandani.
+
 # DataMind AI - Intelligent Data Analyst
 
 DataMind AI is a powerful, local-first AI chatbot designed to help you analyze Excel and CSV files using Google's Gemini models. Upload your datasets, select which ones you want to analyze, and start a conversation to gain deep insights instantly.
@@ -43,3 +45,10 @@ DataMind AI is a powerful, local-first AI chatbot designed to help you analyze E
 - **Local Storage**: Your API key is stored locally in your browser (`localStorage`).
 - **Data Transmission**: Only a relevant sample of your data is sent to the Gemini API during chat sessions to provide context for your questions.
 - **No Backend Storage**: This application does not store your files on any server. Analysis is done purely based on the uploaded session data.
+
+
+Thankyou for visiting.
+
+You can visit for more projects: www.github.com/prerna-gyani
+
+Know More: www.linkedin.com/in/prerna-gyani
