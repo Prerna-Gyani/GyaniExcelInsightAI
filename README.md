@@ -24,7 +24,7 @@ DataMind AI is a powerful, local-first AI chatbot designed to help you analyze E
 
 ## 📖 How to Use
 
-1. **Configure API**: Get your free API key from [Google AI Studio](https://aistudio.google.com/app/apikey) and enter it in the setup modal.
+1. **Configure API**: Get your free API key and enter it in the setup modal.
 2. **Upload Data**: Click the **"+"** icon in the sidebar or the **"New Analysis"** button to upload your CSV or Excel files.
 3. **Select Datasets**: Use the checkboxes in the sidebar to toggle which files should be included in the AI's context.
 4. **Chat & Analyze**: 
