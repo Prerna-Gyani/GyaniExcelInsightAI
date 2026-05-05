@@ -46,7 +46,7 @@ DataMind AI is a powerful, local-first AI chatbot designed to help you analyze E
 - **Data Transmission**: Only a relevant sample of your data is sent to the Gemini API during chat sessions to provide context for your questions.
 - **No Backend Storage**: This application does not store your files on any server. Analysis is done purely based on the uploaded session data.
 
-## 📹 Working Snippets - data folder 📂 
+## 📹 Working Snippets - data_images folder 📂 
 
 
 Thankyou for visiting.
